@@ -1,0 +1,176 @@
+body {
+	background: linear-gradient(#DA1308, #F05900, #138DCF, #40B41C, #5D2A73, #64280C);
+	
+
+}
+
+
+h1{
+	color:#f2f2f2;
+	text-align: center;
+	font-family:century gothic;
+	font-size: 230%;
+}
+
+h3{
+	text-align: center;
+	font-family:century gothic;
+	color:#DDDDDD;
+	margin-top: 10%;
+	margin-bottom: 3%;
+}
+
+#h3_1{
+	text-align: left;
+	font-family:century gothic;
+	color:#DDDDDD;
+	margin-top: 10%;
+	margin-bottom: 3%;
+	margin-left: 20%;
+}
+
+
+#img1{
+	width: 70%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 10%;
+	margin-left: 15%;
+
+}
+
+#img2{
+	width: 40%;
+	margin-top: 0px;
+	margin-bottom: 0%;
+	margin-right: 60%;
+	margin-left: 0%;
+
+
+}
+
+#img4{
+	width: 40%;
+	margin-top: 0px;
+	margin-bottom: 0%;
+	margin-right: 30%;
+	margin-left: 30%;
+
+}
+
+#img5{
+	width: 60%;
+	margin-top: 0px;
+	margin-bottom: 0%;
+	margin-right: 20%;
+	margin-left: 20%;
+
+}
+
+#a2{
+	color: #f2f2f2;
+	text-align: justify;
+	font-family:century gothic;
+	font-size: 100%;
+	margin-top:0%;
+	margin-left: 0%;
+	margin-right: 0%;
+	list-style: none;
+}
+
+p{
+	color:#f2f2f2;
+	text-align: justify;
+	font-family:century gothic;
+	font-size: 100%;
+	margin-top: 5%;
+	margin-left: 20%;
+	margin-right: 20%;
+
+}
+
+
+video{
+	width: 70%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 10%;
+	margin-left: 15%;
+}
+
+#audio2{
+	width: 30%;
+	margin-top: 0px;
+	margin-bottom: 3%;
+	margin-right: 35%;
+	margin-left: 35%;
+
+}
+
+
+
+
+nav ul li {
+	color: #f2f2f2;
+	width: 25%;
+	height: 15%;
+	float: left;
+	text-align: center;
+	font-family: century gothic;
+	list-style:  none;
+	
+
+}
+
+
+nav ul li a:{
+	color: #f2f2f2;
+
+}
+
+
+nav ul li a {
+	color: #f2f2f2;
+
+}
+
+.Galeria{
+	width: 100%;
+	margin: 0 auto;
+	float: left;
+	list-style: none;
+	padding: 10px;
+	justify-content: space-around;
+	box-sizing: border-box;
+	display: flex;
+	margin-bottom: 8%;
+
+
+
+}
+
+.Audios{
+	width: 80%;
+	margin: 0 auto;
+	float: center;
+	list-style: none;
+	padding: 10px;
+	justify-content: space-around;
+	box-sizing: border-box;
+	display: flex;	
+	margin-bottom: 3%;
+
+}
+
+
+
+#img3{
+	width: 90%;
+	margin-left: 5%;
+}
+
+
+iframe{
+	width: 60%;
+	height: 100% ;
+}
